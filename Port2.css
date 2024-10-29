@@ -48,9 +48,9 @@ header {
 }
 
 .navbar a {
-    color: #fff; /* สีของลิงก์ */
-    text-decoration: none; /* ลบขีดเส้นใต้ */
-    padding: 0 15px; /* เพิ่ม padding */
+    color: #fff; 
+    text-decoration: none; 
+    padding: 0 15px;
 }
 
 
@@ -106,7 +106,7 @@ body {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background-image: url('/homer.png');
+    background-image: url('homer.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
